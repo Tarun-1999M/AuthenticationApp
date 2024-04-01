@@ -3,3 +3,6 @@ This project uses the passport-local to check for the authentication.
 2.Performed ServerSide rendering using Embedded JavaScript
 3. Utilized bcrypt for hashing of the password
 4. Utilized express-flash to send the error messages to the client
+
+
+Reference: This project is learnt form Web Dev Simplified Youtube Channel
